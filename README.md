@@ -3,7 +3,7 @@ Collection of python programs to make your lua macros development much easier
 
 
 # What can it  do?
-  - Convert *.amc mouse movement and delays to lua code
+  - Convert part of .amc script with only mouse movement and delays to lua code
   - convert lua code from one sensitivity to another
 
 # What I learnt?
